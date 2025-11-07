@@ -30,7 +30,7 @@ Each script in the `/scrapers` directory is self-contained and pushes to its own
 | :--- | :--- | :--- | :--- |
 | Ukpuru Blog | `run_ukpuru.py` | Secondary | `ukpuru_blog_dataset` |
 | G.I. Jones Archive | `run_gijones.py` | Primary | `gi_jones_archive_dataset` |
-| [Re:]Entanglements | `run_reentanglements.py` | Secondary | <ul><li>`re-entanglements-images`</li><li>`re-entanglements-audio`</li></ul> |
+| [Re:]Entanglements | `run_reentanglements.py` | Secondary | <ul><li>`re-entanglements-audio`</li><li>`re-entanglements-documents`</li></ul> |
 | (More coming soon) | | | |
 
 ---

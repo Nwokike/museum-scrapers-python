@@ -13,7 +13,7 @@ This project strictly separates the **code** from the **data**.
 * **CODE (This Repo):**
     * **Location:** `github.com/Nwokike/igbo-archives-scrapers`
     * **Contents:** All `.py` scraper scripts.
-    * **License:** `Apache 2.0`. This gives others permission to use, modify, and build upon **your code**.
+    * **License:** `Apache 2.0`. This gives others permission to use, modify, and build upon **this code**.
 
 * **DATA (Hugging Face):**
     * **Location:** `huggingface.co/datasets/nwokikeonyeka/...`

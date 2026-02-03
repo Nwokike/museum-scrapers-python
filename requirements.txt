@@ -1,6 +1,7 @@
+playwright>=1.35.0
+nest_asyncio
+pillow
+tqdm
+huggingface_hub
 requests
 beautifulsoup4
-tqdm
-Pillow
-huggingface_hub
-selenium
